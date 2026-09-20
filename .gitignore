@@ -417,5 +417,3 @@ FodyWeavers.xsd
 *.msm
 *.msp
 SafoxMobileApp/SafoxMobileApp/SafoxMobileApp.csproj.lscache
-.agents
-.claude
